@@ -2,7 +2,7 @@
 Project Title: School Management System
 Objective:
 Develop a Java-based application to manage school operations including student and teacher records, course management, attendance tracking, and grading.
-
+                                                
 Key Features:
 User Management:
 
